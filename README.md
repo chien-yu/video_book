@@ -1,2 +1,4 @@
-# video_book
-Show how I learn video
+# Initial page
+
+## How do I learn video
+
